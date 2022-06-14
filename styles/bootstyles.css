@@ -1,0 +1,46 @@
+.tabheader {
+    top: 5px;
+    left: 10px;
+    right: 10px;
+    height: 100px; 
+    background-color: black;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.mainbody {
+    background-color:black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    top: 114px;
+    left: 10px;
+    right: 10px;
+}
+
+.tabfooter {
+    bottom: 5px;
+    height: 30px;
+    left: 10px;
+    right: 10px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align:center
+}
+
+.a {
+    color:deepskyblue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.caption {
+    text-align: center;
+}
+
